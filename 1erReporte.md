@@ -1,6 +1,7 @@
 # Reporte de Avance - Desarrollo de Videojuego
 
 **Nombre del equipo:** Solecito Team
+
 **Integrantes:**  
 - Ortiz Hernandez Ricardo Emmanuel 
 - Galindo Ortiz Aytana  
