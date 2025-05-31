@@ -53,58 +53,6 @@ Cuando Elías duda o se enfrenta a recuerdos difíciles, la niebla se espesa.
 
 ## 3. Mundo del juego
 
-1. Introducción al mundo
-
-Silencio en la Niebla transcurre en un pequeño pueblo rural ficticio llamado Valdeluna, ubicado en un valle montañoso y aislado del resto del mundo por un espeso bosque y caminos olvidados por el tiempo. Desde hace una década, una extraña niebla cubre permanentemente el lugar, y con ella llegó una maldición que robó las voces de todos sus habitantes. El tiempo parece fluir de manera distinta en Valdeluna: los relojes fallan, las estaciones no cambian, y los recuerdos se mezclan con las emociones en formas que desafían la lógica.
-
-El pueblo está lleno de simbolismo y melancolía. Las casas están cubiertas de moho, los caminos están deshechos por el paso de la humedad, y los sonidos se sienten amortiguados, como si el aire mismo reprimiera el habla. Cada rincón del pueblo guarda memorias latentes, listas para ser descubiertas.
-
-2. Zonas principales del juego
-
-El mapa de Silencio en la Niebla está dividido en varias zonas interconectadas, cada una con su propia identidad visual, emocional y narrativa.
-
-a) La Plaza Central
-
-El corazón del pueblo. Aun en silencio, sigue siendo un punto de reunión. Tiene una fuente antigua, un kiosco abandonado y varios negocios cerrados con vitrinas cubiertas de polvo. En el centro de la plaza hay un mural borroso que irá revelándose a medida que se recuperen recuerdos importantes.
-
-b) El Bosque de los Susurros
-
-Un extenso y enmarañado bosque que rodea el pueblo. Aquí, la niebla es más densa y los recuerdos toman forma física como sombras o fragmentos flotantes. Es un lugar peligroso pero clave para avanzar en la historia, pues muchos recuerdos perdidos están escondidos aquí.
-
-c) La Estación Abandonada
-
-Antiguo punto de conexión con el exterior. La estación de tren está cubierta de hiedra y se escuchan ecos de despedidas. Algunos vagones viejos son accesibles y contienen escenas congeladas de recuerdos de los aldeanos. Este lugar simboliza la partida, la pérdida y la desconexión con el mundo exterior.
-
-d) El Barrio Antiguo
-
-Zona de casas familiares, ahora vacías o habitadas por figuras silenciosas. Aquí se encuentra la casa del protagonista, que funciona como centro de operaciones y punto de descanso. Los objetos del hogar permiten acceder a recuerdos clave mediante mecánicas de evocación emocional.
-
-e) El Mirador de la Niebla
-
-Ubicado en lo alto de una colina, este sitio ofrece una vista panorámica del pueblo cubierto por la niebla. Es un lugar introspectivo, donde el jugador puede conectar momentos del pasado con emociones presentes. Sirve como punto de meditación, revelación y avance en la narrativa personal.
-
-f) El Santuario del Silencio
-
-Un templo en ruinas que muchos creen ser el origen de la maldición. Envuelto en simbolismo religioso y místico, sus muros están cubiertos de escrituras en lenguajes antiguos y dibujos de bocas tachadas. Es el último lugar accesible, donde se enfrentará la verdad final.
-
-3. Habitantes y entidades
-
-Aunque los aldeanos han perdido la capacidad de hablar, están muy presentes en la historia. Se comunican mediante expresiones, escritura rudimentaria, gestos y la emisión de ecos emocionales. Muchos tienen recuerdos atrapados, los cuales el jugador debe liberar.
-
-Además, hay entidades más abstractas creadas por la niebla: figuras formadas por emociones reprimidas como la tristeza, la culpa o el enojo. Estas entidades no siempre son hostiles, pero representan barreras emocionales que el jugador debe comprender para superar.
-
-4. Simbolismo y atmósfera
-
-Todo el mundo de Silencio en la Niebla está construido sobre simbolismos: puertas que solo se abren con recuerdos significativos, paredes que reaccionan a la tristeza, objetos que "pesan" emocionalmente. Los colores son fríos y opacos, salvo cuando se activan recuerdos, momento en que surgen tonos cálidos, revelando belleza en medio del dolor.
-
-Los sonidos ambientales están cuidadosamente diseñados: el crujir de la madera, el viento entre los árboles, gotas de agua... todo contribuye a una sensación de aislamiento y reflexión. No hay música constante; esta aparece solo en momentos clave para reforzar el peso emocional de ciertas escenas.
-
-5. Evolución del mundo
-
-El pueblo no es estático. A medida que el jugador desbloquea recuerdos y ayuda a los aldeanos a liberarse de su carga emocional, algunas zonas cambian: flores brotan en lugares olvidados, la niebla se disipa ligeramente, aparecen nuevos caminos antes ocultos. Esta transformación representa la sanación y la reconexión con la identidad.
-
-Hacia el final del juego, el mundo alcanza un punto de ruptura: la niebla comienza a retirarse, pero también se revelan verdades dolorosas. El jugador debe decidir si confrontar el corazón de la maldición o conservar la ilusoria paz del olvido.
-
 ## 4. Mecánicas del Juego
 
 [Incluye ejemplos claros o diagramas.]: # 
