@@ -8,9 +8,10 @@
 - Luis Enrique  
 
 **Nombre del videojuego (tentativo):** Silencio en la Niebla
+
 **Fecha de entrega del reporte:** 31/05/2025  
-**Resumen:** [Breve descripciÃ³n (1 - 3 lÃ­neas) del videojuego: gÃ©nero, concepto principal y estilo
-de juego.]: #
+
+**Resumen:** Silencio en la Niebla es un videojuego narrativo donde el jugador explora un pueblo silenciado por una maldición, comunicándose mediante gestos, símbolos y recuerdos. Sin diálogos hablados, la historia se revela a través de la observación y la empatía, abordando temas como el duelo y la reconexión emocional. En una atmósfera melancólica, cada rincón del entorno guarda pistas de un pasado que aún busca ser contado.
 
 
 ---
