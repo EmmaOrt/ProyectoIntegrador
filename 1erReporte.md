@@ -1,13 +1,13 @@
 # Reporte de Avance - Desarrollo de Videojuego
 
-**Nombre del equipo:** [Nombre del equipo]  
+**Nombre del equipo:** Solecito Team
 **Integrantes:**  
 - Ortiz Hernandez Ricardo Emmanuel 
 - Galindo Ortiz Aytana  
 - Luis Enrique  
 
-**Nombre del videojuego (tentativo):** [Silencio en la Niebla]: #  
-**Fecha de entrega del reporte:** [31/05/2025]: #  
+**Nombre del videojuego (tentativo):** Silencio en la Niebla
+**Fecha de entrega del reporte:** 31/05/2025  
 **Resumen:** [Breve descripciÃ³n (1 - 3 lÃ­neas) del videojuego: gÃ©nero, concepto principal y estilo
 de juego.]: #
 
@@ -23,7 +23,7 @@ de juego.]: #
 | Luis Enrique | - |  - | - |
 ---
 
-## ðŸŽ¯ Objetivos del sprint
+## Objetivos del sprint
 
 - [ ] Objetivo 1 (ej. Implementar movimiento del personaje)
 - [ ] Objetivo 2
@@ -37,7 +37,7 @@ Enlace al video. Breve resumen de contenido del video. Â¿QuÃ© se muestra? Â
 
 ---
 
-## âœ… Avances tÃ©cnicos
+## Avances técnicos
 
 - [x] [DescripciÃ³n de lo que sÃ­ se logrÃ³]
 - [ ] Progreso en arte, sonido, interfaz, niveles.
@@ -46,7 +46,7 @@ Enlace al video. Breve resumen de contenido del video. Â¿QuÃ© se muestra? Â
 
 ---
 
-## ðŸž Problemas o bloqueos
+## Problemas o bloqueos
 
 - [DescripciÃ³n breve del problema]
 - Â¿QuÃ© se hizo para resolverlo?
@@ -54,20 +54,20 @@ Enlace al video. Breve resumen de contenido del video. Â¿QuÃ© se muestra? Â
 
 ---
 
-## ðŸ”„ Cambios respecto al plan original
+## Cambios respecto al plan original
 
 - [DescripciÃ³n de cualquier cambio importante en mecÃ¡nicas, arte, alcance, etc.]
 
 ---
 
-## ðŸ§ª Pruebas o avances tÃ©cnicos
+## Pruebas o avances técnicos
 
 - [Explicar si hubo pruebas de juego o iteraciones de mecÃ¡nicas]
 - [Incluye gifs, capturas o links si aplica]
 
 ---
 
-## ðŸ—“ï¸ PrÃ³ximos pasos
+## Próximos pasos
 
 [Lista breve de tarea por hacer o retos identificados.]: #
 
