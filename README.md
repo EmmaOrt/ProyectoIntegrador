@@ -54,6 +54,13 @@ Cuando Elías duda o se enfrenta a recuerdos difíciles, la niebla se espesa.
 ![Sin título-1](https://github.com/user-attachments/assets/dd36053a-9d8c-4a4d-95be-773a6f5ecac8)
 
 ## 3. Mundo del juego
+El mundo de Silencio en la Niebla está compuesto por un pequeño pueblo rural olvidado por el tiempo, sumido en una niebla densa y constante que cubre cada rincón como un manto de secretos no dichos. Las casas de madera están desgastadas, cubiertas de musgo, y las calles de piedra crujen bajo los pasos del protagonista. Todo parece congelado en un momento indefinido, donde los relojes no funcionan y las estaciones no cambian.
+
+El pueblo está dividido en sectores interconectados: el casco antiguo, con su plaza principal, iglesia derruida y escuela abandonada; los campos exteriores, donde el silencio pesa aún más y sombras de lo que alguna vez fueron personas parecen moverse entre los cultivos; y el bosque de los ecos, un lugar donde el sonido se distorsiona y los recuerdos toman forma tangible.
+
+Cada zona tiene su propia “voz visual”: tonos apagados, arquitectura olvidada y símbolos grabados en puertas, árboles y lápidas. No hay habitantes visibles en todo momento, pero su presencia se siente, como si observaran desde la niebla. Algunos se comunican mediante notas, dibujos o gestos; otros, atrapados por la maldición, aparecen como espectros mudos que repiten fragmentos de su vida pasada.
+
+La ambientación está impregnada de melancolía, y el jugador siente que el pueblo está vivo, no solo física sino emocionalmente. Cada espacio cuenta una historia que Elías debe reconstruir, no solo para liberar al pueblo, sino para enfrentarse a sus propios fantasmas. La niebla no solo es una barrera visual, sino también emocional: representa el olvido, el duelo y la desconexión que se ha extendido como una plaga silenciosa.
 
 ## 4. Mecánicas del Juego
 
