@@ -63,7 +63,9 @@ Cuando Elías duda o se enfrenta a recuerdos difíciles, la niebla se espesa.
 
 ## 6. Plan del proyecto
 
-[El plan debe incluir un diagrama de Gantt con el cronograma de desarrollo, ten en cuenta las fechas.]: # 
+[AÃ±ade una imagen de tu juego.]: #
+
+<img src="Diagrama.jpg" width="80%" height="Auto">
 
 ## 7. BibliografÃ­a
 
