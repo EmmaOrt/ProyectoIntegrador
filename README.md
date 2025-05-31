@@ -6,7 +6,8 @@
 - Luis Enrique 
 
 
-[AÃ±ade una imagen de tu juego.]: #
+![Silencio en la niebla](https://github.com/user-attachments/assets/9658c252-128a-45fc-836b-a7ef578dcf01)
+
 
 <img src="imagen.jpg" width="80%" height="Auto">
 
@@ -14,9 +15,9 @@
 
 | Nombre | Colaboración | Comunicación | Responsabilidad
 | ----------- | ----------- | ----------- | ----------- |
-| Aytana Galindo | - | - | - |
-| Luis Enrique | - |  - | - |
-| Ricardo Ortiz | - |  - | - |
+| Aytana Galindo | 🟩 | 🟩 | 🟩 |
+| Luis Enrique | 🟩|  🟩 | 🟩 |
+| Ricardo Ortiz | 🟩|  🟩 | 🟩|
 
 ## 1. Propósito de tu juego
 
@@ -50,22 +51,29 @@ Elías se comunica mediante símbolos dibujados o encontrados.
 El jugador debe encontrar objetos clave (una bufanda, un cuaderno, una figura tallada) activan ecos del pasado: visiones borrosas, sonidos apagados, escenas incompletas al reunir suficientes fragmentos se desbloquean recuerdos completos, así revelando la historia de Elías y el pueblo.
 La niebla no es solo clima: reacciona al estado emocional del jugador.
 Cuando Elías duda o se enfrenta a recuerdos difíciles, la niebla se espesa.
+![Sin título-1](https://github.com/user-attachments/assets/dd36053a-9d8c-4a4d-95be-773a6f5ecac8)
 
 ## 3. Mundo del juego
 
 ## 4. Mecánicas del Juego
 
-[Incluye ejemplos claros o diagramas.]: # 
+Ritmo pausado con desplazamiento limitado por la niebla.
+El entorno cambia ligeramente según el estado emocional de Elías o su progreso (habitaciones se deforman, caminos se repiten o desvanecen).
+Símbolos grabados en objetos o paredes, dibujos y cartas antiguas.
+El jugador arma un mural de recuerdos, relacionando eventos para desbloquear nuevas zonas o diálogos internos.
+
 
 ## 5. Personajes
 
-[Es importante que incluyan al menos dos personajes principales completamente diseÃ±ados.]: # 
+
+Elías es delgado, de rostro anguloso y ojos grises, como empañados por la misma niebla que cubre su pueblo
+
 
 ## 6. Plan del proyecto
 
-[AÃ±ade una imagen de tu juego.]: #
 
-<img src="Diagrama.jpg" width="80%" height="Auto">
+<img width="432" alt="Captura de pantalla 2025-05-31 004055" src="https://github.com/user-attachments/assets/9ba323ff-2b63-4d9d-94f6-8a549a6e1da0" />
+
 
 ## 7. BibliografÃ­a
 
