@@ -1,9 +1,9 @@
 # “Silencio en la Niebla”
 
 **Desarrolladores:**
-
-Ricardo Emmanuel Ortiz Hernandez
-Aytana Galindo Ortiz
+- Ricardo Emmanuel Ortiz Hernandez  
+- Aytana Galindo Ortiz
+- Luis Enrique 
 
 
 [AÃ±ade una imagen de tu juego.]: #
@@ -14,45 +14,42 @@ Aytana Galindo Ortiz
 
 | Nombre | Colaboración | Comunicación | Responsabilidad
 | ----------- | ----------- | ----------- | ----------- |
-| Header | Title | - | - |
-| Paragraph | Text |  - | - |
+| Aytana Galindo | - | - | - |
+| Luis Enrique | - |  - | - |
+| Ricardo Ortiz | - |  - | - |
 
 ## 1. Propósito de tu juego
 
+El propósito de Silencio en la Niebla es ofrecer una experiencia narrativa profundamente inmersiva y emocional, en la que el jugador explora el poder del silencio, la memoria y la comunicación no verbal para descubrir verdades personales y familiares ocultas bajo una atmósfera melancólica.
+Este juego propone una reflexión íntima sobre el duelo, la pérdida y la reconexión emocional, sin recurrir al lenguaje hablado. A través de fragmentos de memoria, gestos y símbolos, se sumerge al jugador en una historia humana y conmovedora, abierta a la interpretación subjetiva, donde cada jugador puede sacar sus propias conclusiones emocionales.
+Silencio en la Niebla desafía al jugador a comprender un mundo sin palabras, utilizando mecánicas basadas en la deducción emocional, la observación y la empatía. La curiosidad y la sensibilidad se ven recompensadas a medida que se explora el entorno, destacando la importancia de los detalles sutiles y las conexiones personales en un universo silencioso, pero profundamente expresivo.
+
 ### 1.1 Resumen del juego
 
-Arrebatado las voces de sus habitantes. En este mundo melancólico y cubierto por una densa niebla, el jugador asume el papel de un joven que regresa a su hogar para desentrañar un misterio familiar olvidado. Sin palabras, deberá comunicarse mediante símbolos, gestos y evocaciones del pasado, explorando recuerdos y emociones para reconstruir la historia del pueblo y su propia identidad. A través de mecánicas de deducción y una narrativa profundamente visual y sensorial, el jugador irá descubriendo verdades ocultas en un entorno cargado de soledad, memoria y redención.
+Silencio en la Niebla es un videojuego narrativo y emocional que transporta al jugador a un pueblo cubierto por una niebla perpetua y una misteriosa maldición: nadie puede hablar. En este mundo silencioso, el jugador deberá comunicarse a través de gestos, símbolos y fragmentos de memoria para desenterrar un pasado familiar oculto y reconstruir vínculos rotos por el tiempo y la pérdida.
+El juego aborda temas como el duelo, la ausencia y la reconexión emocional, creando una experiencia íntima y abierta a la interpretación. Sin diálogos hablados, la narrativa se construye mediante la observación, la empatía y la deducción emocional. Cada detalle en el entorno es una pista; cada recuerdo, una pieza clave del misterio.
+Con una atmósfera melancólica y un enfoque artístico y sensorial, Silencio en la Niebla invita a los jugadores a descubrir que, incluso en el silencio más profundo, hay historias que aún quieren ser contadas.
 
 ### 1.2 Resumen de la historia del juego
 
-En Silencio en la Niebla, el protagonista regresa a su pueblo natal tras años de ausencia, solo para descubrir que una antigua maldición ha silenciado a todos sus habitantes. Nadie puede hablar, y la niebla cubre los recuerdos como una manta de olvido. Guiado por fragmentos de memoria, objetos olvidados y emociones contenidas, el jugador deberá reconstruir la historia de su familia y del pueblo. A medida que profundiza en el misterio, se enfrenta a verdades dolorosas, vínculos rotos y la posibilidad de romper el silencio que lo envuelve todo.
+En Silencio en la Niebla, Elías regresa a su pueblo natal tras años de ausencia, guiado por una carta anónima y recuerdos fragmentados. Al llegar, encuentra un lugar cubierto por una niebla perpetua y una maldición que ha dejado a todos sin voz. A través de símbolos, gestos y objetos olvidados, deberá reconstruir la historia de su familia y descubrir el origen del silencio. En su búsqueda, enfrentará el duelo, la culpa y la necesidad de reconexión. Solo enfrentando el pasado podrá liberar al pueblo o aceptar que algunas heridas no deben abrirse.
 
 ### 1.3 Resumen de la historia del juego.
 
-Ambientación melancólica: en un pueblo cubierto de niebla, donde reina el silencio absoluto por una misteriosa maldición.
-
-Narrativa no verbal: donde la historia se transmite a través de símbolos, expresiones, recuerdos y objetos del entorno.
-
-Protagonista introspectivo: regresa a su lugar de origen para enfrentar un pasado familiar lleno de secretos.
-
-Exploración emocional: como eje central, enfocándose en sentimientos como la pérdida, la culpa y el perdón.
-
-Mecánicas de deducción: permiten al jugador reconstruir eventos pasados mediante la interpretación de pistas visuales y sensoriales.
-
-Interacción simbólica: con otros personajes, utilizando gestos, miradas y acciones para comunicarse.
-
-Diseño artístico expresivo: con énfasis en la atmósfera, la luz, y los detalles ambientales para narrar sin palabras.
-
-Rompecabezas narrativos: que requieren empatía y comprensión emocional para avanzar.
-
-Progresión basada en la memoria: donde recuperar recuerdos clave desbloquea nuevas áreas y conexiones.
-
-Final múltiple: influenciado por las decisiones emocionales del jugador y su interpretación del pasado.
-
+- El regreso de Elías: Vuelve a su pueblo natal tras años de ausencia y exilio personal.
+- El estado del pueblo: Los habitantes han perdido la voz: nadie puede hablar
+- Mecánica de comunicación: El jugador descifra historias a través de pistas visuales, sonidos imaginados y objetos cargados de memoria.
+- Origen del silencio: La maldición está ligada a hechos silenciados por generaciones.
+- Decisiones clave:El jugador decide si Elías confronta el pasado o lo deja enterrado.
+- Tema central: Solo enfrentando lo no dicho, Elías podrá encontrar paz o perderse para siempre en la niebla.
 
 ## 2. Jugabilidad
 
-La jugabilidad de Silencio en la Niebla se basa en la exploración emocional, la interpretación visual y la deducción narrativa. El jugador recorre un pueblo silencioso, interactuando con objetos, entornos y personajes mediante gestos, miradas y símbolos. No hay diálogos hablados; la comunicación se da a través de expresiones faciales, recuerdos visuales y pistas ambientales. A medida que encuentra fragmentos del pasado, el jugador reconstruye eventos clave, desbloquea nuevas zonas y profundiza en su conexión emocional con los habitantes. Los acertijos se resuelven comprendiendo el estado emocional de los personajes y asociando recuerdos con elementos del entorno. Cada decisión y descubrimiento afecta el desarrollo de la historia y puede alterar el desenlace final. La experiencia está diseñada para ser inmersiva, sensible y reflexiva, invitando al jugador a interpretar más allá de lo que ve.
+El jugador recorre el pueblo a su propio ritmo.Cada zona está envuelta en niebla con distintos grados de densidad, que se disipan conforme Elías recupera recuerdos.
+Elías se comunica mediante símbolos dibujados o encontrados.
+El jugador debe encontrar objetos clave (una bufanda, un cuaderno, una figura tallada) activan ecos del pasado: visiones borrosas, sonidos apagados, escenas incompletas al reunir suficientes fragmentos se desbloquean recuerdos completos, así revelando la historia de Elías y el pueblo.
+La niebla no es solo clima: reacciona al estado emocional del jugador.
+Cuando Elías duda o se enfrenta a recuerdos difíciles, la niebla se espesa.
 
 ## 3. Mundo del juego
 
